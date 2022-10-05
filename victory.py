@@ -9,6 +9,7 @@ while repeat != False:
 
 
 
+
     q1 = int(input('В каком году родился Лермонтов?')) #1814
     q1a = 1814
     if q1 == q1a:
